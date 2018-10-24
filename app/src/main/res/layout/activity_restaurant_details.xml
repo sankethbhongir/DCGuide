@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activities.RestaurantDetails">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/restaurant_cover"
+            style="@style/myCoverStyle"
+            tools:src="@drawable/asia_nine_restaurant" />
+
+        <TextView
+            style="@style/myHeadStyle"
+            android:text="@string/overview" />
+
+        <TextView
+            android:id="@+id/restaurant_info_text_view"
+            style="@style/myInfoStyle"
+            tools:text="@string/osteria_morini_restaurant1_info" />
+
+
+        <TextView
+            android:id="@+id/restaurant_timing_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/activity_horizontal_margin"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:drawableStart="@drawable/ic_action_clock"
+            android:fontFamily="@font/roboto"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            tools:text="@string/asia_nine_restaurant5_timing" />
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:columnCount="2">
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/restaurant_location_button"
+                style="@style/myMaterialButtonStyle"
+                android:layout_row="0"
+                android:layout_column="1"
+                android:text="@string/view_map"
+                app:icon="@drawable/baseline_map_white_24dp" />
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/restaurant_contact_button"
+                style="@style/myMaterialButtonStyle"
+                android:layout_row="0"
+                android:layout_column="0"
+                android:text="@string/make_call"
+                app:icon="@drawable/baseline_local_phone_white_24dp" />
+
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/restaurant_booking_button"
+                style="@style/myMaterialButtonStyle"
+                android:layout_row="1"
+                android:layout_column="0"
+                android:text="@string/order_now"
+                app:icon="@drawable/baseline_local_shipping_white_24dp" />
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/restaurant_site_button"
+                style="@style/myMaterialButtonStyle"
+                android:layout_row="1"
+                android:layout_column="1"
+                android:text="@string/view_site"
+                app:icon="@drawable/baseline_public_white_24dp" />
+
+        </GridLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>

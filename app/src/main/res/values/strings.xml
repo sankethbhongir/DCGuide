@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">DC Guide</string>
+    <string name="Places">Place</string>
+    <string name="Hotels">Hotels</string>
+    <string name="Restaurants">Food &amp; Drink</string>
+    <string name="Events">Events</string>
+
+    <!--places details-->
+    <string name="lincoln_memorial_place1_title">Lincoln Memorial</string>
+    <string name="lincoln_memorial_place1_headline">The iconic memorial built to honor the 16th U.S. president is a must-see for every visitor to the nation’s capital.</string>
+    <string name="lincoln_memorial_place1_sub_headline_1">Experiencing the Lincoln Memorial</string>
+    <string name="lincoln_memorial_place1_sub_headline_1_info">The grand Lincoln Memorial towers over the Reflecting Pool, anchoring the western end of the National Mall. The best way to approach the memorial is from the east, by the Washington Monument and the National World War II Memorial. This will put you at the edge of the Reflecting Pool, a shimmering expanse which best illuminates the grand structures honoring our most storied leaders.\n\nTake a stroll toward the memorial and watch as it gradually gets larger. When you stand directly in front, gaze at the handsome marble columns surrounded by greenery, part of a design inspired by ancient Greek temples. There are 36 columns, each one representing one state in the U.S. at the date of President Lincoln’s death. The memorial itself is 190 feet long and 119 feet wide, and reaches a height of almost 100 feet.\nClimb the stairs leading to the interior, and look up. There, etched into the wall, is a memorable quote: "In this temple, as in the hearts of the people for whom he saved the Union, the memory of Abraham Lincoln is enshrined forever."</string>
+    <string name="lincoln_memorial_place1_sub_headline_2">Lincoln Memorial hours and directions</string>
+    <string name="lincoln_memorial_place1_sub_headline_2_info">The Lincoln Memorial is open 24 hours a day, every day of the year. Rangers are on duty from 9:30 a.m. to 10 p.m. daily. The easiest way to reach the Memorial is by Metrorail or Metrobus. The nearest Metro stations are Foggy Bottom and Smithsonian, both on the Orange, Blue and Silver lines. If traveling by Metrobus, take the 32, 34 or 36 routes. Capital Bikeshare also has a dock nearby, on Daniel French Drive SW. Find a schedule of events at the memorial to help plan your visit.</string>
+    <string name="lincoln_memorial_place1_location">2 Lincoln Memorial Cir NW, Washington, DC 20037</string>
+
+    <string name="martin_luther_place2_title"> Martin Luther King Jr Memorial</string>
+    <string name="martin_luther_place2_headline">Everything you need to know about the national memorial to America’s greatest Civil Rights Movement leader.</string>
+    <string name="martin_luther_place2_sub_headline_1">What is the Martin Luther King, Jr. Memorial and where is it?</string>
+    <string name="martin_luther_place2_sub_headline_1_info">The Martin Luther King, Jr. Memorial is situated on a four-acre site along the National Mall\'s Tidal Basin, adjacent to the Franklin D. Roosevelt Memorial and shares a direct line of sight between the Lincoln and Jefferson memorials. Its official address is 1964 Independence Avenue SW, in honor of the Civil Rights Act of 1964, a landmark legislation in which King played an important role.\n\nDr. Martin Luther King, Jr. was one of the most prominent leaders of the Civil Rights Movement in the 1960s, becoming an iconic figure through his incredible speeches and his use of nonviolent resistance. He led the famous March on Washington in 1963, where he gave his legendary “I Have a Dream” speech on the steps of the Lincoln Memorial. Opened to the public in 2011, the memorial is the fourth in Washington, DC to honor a non-president and the first to honor a man of color. The site was designed as a lasting tribute to Dr. King’s legacy and will forever serve as a monument to the freedom, opportunity and justice for which he stood.</string>
+    <string name="martin_luther_place2_sub_headline_2">Martin Luther King, Jr. Memorial hours and directions</string>
+    <string name="martin_luther_place2_sub_headline_2_info">The most convenient way to reach the Martin Luther King, Jr. Memorial is by Metrobus or Metro. The closest Metro stop is Smithsonian, on the Orange, Blue and Silver lines. Of course, the memorial is in very close proximity to the other memorials surrounding the Tidal Basin.\n \nThe Martin Luther King, Jr. Memorial is open 24 hours a day, seven days a week. There is no fee to visit. National Park Service rangers are on site to answer questions from 9:30 a.m. to 10 p.m. daily. Interpretive programs are available throughout the day and upon request.</string>
+    <string name="martin_luther_place2_location">1964 Independence Ave SW, Washington, DC 20024</string>
+
+    <string name="jeff_mem_place3_title">Jefferson Memorial</string>
+    <string name="jeff_mem_place3_headline">This gem on the National Mall is dedicated to Thomas Jefferson, the third U.S. president and author of the Declaration of Independence.</string>
+    <string name="jeff_mem_place3_sub_headline_1">Where and what is the Jefferson Memorial?</string>
+    <string name="jeff_mem_place3_sub_headline_1_info">The location and architecture of the Thomas Jefferson Memorial make it stand out among DC’s amazing array of monuments and memorials. Designed by John Russell Pope in 1925, the memorial resembles the Pantheon in Rome, an adaptation of Neoclassical architecture favored by Thomas Jefferson himself. Surrounded by water, the structure is located on the National Mall\'s Tidal Basin, a large body of water that is bordered by DC’s famous cherry blossom trees. On a moonlit night, the memorial creates a beautiful, shimmering image on the water, and in springtime, it’s joined by blooming cherry blossom trees.</string>
+    <string name="jeff_mem_place3_sub_headline_2">Jefferson Memorial hours and directions</string>
+    <string name="jeff_mem_place3_sub_headline_2_info">The Jefferson Memorial is open 24 hours a day, every day of the year. Rangers are on duty from 9:30 a.m. to 10 p.m. daily. The most convenient way to reach the memorial is by Metrorail or Metrobus. The closest Metro station is Smithsonian, located on the Orange, Blue and Silver lines. As for the bus, take either the 32, 34 or 36 routes.</string>
+    <string name="jeff_mem_place3_location">701 E Basin Dr SW, Washington, DC 20242</string>
+
+    <string name="lib_cong_place4_title">Library of Congress</string>
+    <string name="lib_cong_place4_headline">The largest library in the world makes for a fascinating historical and literary experience in the nation’s capital.</string>
+    <string name="lib_cong_place4_sub_headline1">The largest library in the world makes for a fascinating historical and literary experience in the nation’s capital.</string>
+    <string name="lib_cong_place4_sub_headline1_info">The Library of Congress is housed across three buildings on Capitol Hill in Washington, DC: the Thomas Jefferson Building (10 1st Street SE), the James Madison Memorial Building (101 Independence Avenue SE) and the John Adams Building (2nd Street SE, between Independence Avenue and East Capitol Street). The library houses more than 164 million items, from books to photos to recordings to maps to…much, much more. It also serves as a museum, with numerous exhibits inside the incredible Thomas Jefferson Building.\n \nAll the Library of Congress’ buildings can be entered free of charge. The Thomas Jefferson Building is open from Monday – Saturday, 8:30 a.m. – 5 p.m. The building is closed every Sunday and on Thanksgiving Day, Christmas and New Year’s Day. The James Madison Memorial Building and the John Adams Building are primarily used for research – learn more about the Library of Congress’ buildings, including tours and current exhibitions, and check out the hours for reading rooms across the three buildings.\n\nThe easiest way to reach the Library of Congress is via Metrorail or the DC Circulator’s Union Station-Navy Yard Metro route. The closest Metro stop is Capitol South station on the Orange, Blue and Silver lines. Simply exit the station using the main exit and walk two blocks north on First Street SE. The Union Station-Navy Yard route stops on First Street, making for a short walk to the Library of Congress’ buildings.</string>
+    <string name="lib_cong_place4_sub_headline2">What’s inside the Library of Congress?</string>
+    <string name="lib_cong_place4_sub_headline2_info">The best visitor experience can be found inside the Library of Congress’ Thomas Jefferson Building. You will be dazzled upon walking in the door of the Jefferson Building. Gilded Age architecture makes its interior a visual masterpiece, a work of art worthy of housing the immense amount of knowledge that it holds. Once you’re done snapping photos for Instagram, it’s time to explore the building’s many exhibits.\n\nCurrently, seven of the Thomas Jefferson Building’s exhibits are ongoing. Here to Stay: The Legacy of George and Ira Gershwin reveals the lives of the sibling duo and their powerful influence on modern music. The Swann Gallery is a fun dive into political cartoons, comics, animation art and caricatures, while the Herblock Gallery reveals the imaginative work of political cartoonist Herbert L. Block. Thomas Jefferson’s Library is a stunning recreation of the Founding Father’s immense collection of books that founded the Library of Congress.\n\nExploring the Early Americas chronicles Native American culture and their conflict with Europeans. Notably, the exhibit features Martin Waldseemüller’s 1507 map of the world, the first to feature the word “America”. Hope for America: Performers, Politics and Pop Culture focuses on the career of Bob Hope and many other entertainers who have engaged with politics in their work, and how this intersection impacts American society. Mapping a Growing Nation: From Independence to Statehood showcases the first map of the independent U.S. compiled, printed and published in America by an American (his name was Abel Buell).</string>
+    <string name="lib_cong_place4_location">101 Independence Ave SE, Washington, DC 20540</string>
+
+    <string name="air_space_place5_title">National Air and Space Museum</string>
+    <string name="air_space_place5_headline">Blast off at this popular free museum on the National Mall chronicling the history of aviation and space travel.</string>
+    <string name="air_space_place5_headline1">A museum that goes above and beyond</string>
+    <string name="air_space_place5_headline1_info">Glimpse the 1903 Wright Flyer, run your hands over moon rock and experience the larger-than-life world of aviation and space travel at the National Air and Space Museum. Since opening on the National Mall in 1976, this hub of all things flight has educated and inspired future generations of pilots and astronauts from around the world. The museum (along with its second location, the Udvar-Hazy Center, in Chantilly, Va.) contains the largest and most significant collection of aviation and space artifacts in the world. All components of human flight are on display, including related art and archival materials.\n\nThe museum is located on Independence Avenue at 6th Street SW, and admission is always free. Regular hours are 10 a.m. – 5:30 p.m., but the museum stays open until 7:30 p.m. during its extended spring and summer hours.</string>
+    <string name="air_space_place5_headline2">What’s inside the National Air and Space Museum?</string>
+    <string name="air_space_place5_headline2_info">The Air and Space Museum takes visitors to the sky, showcasing the amazing technological achievements that have progressed aviation and space exploration throughout the last century. Our fascination with flight is still alive and well, as the museum (and the accompanying Udvar-Hazy Center) is one of the most visited in the world year-after-year.\n\nAs you may imagine, the historical objects on display are fundamental to the story of flight. The 1903 Wright Flyer owns the distinction of flying the world’s first successful flight, and you can see the groundbreaking flying machine in person. There’s also Charles Lindbergh’s Spirit of St. Louis, the first aircraft to complete a nonstop flight from New York to Paris.\n\nThe Apollo 11 Command Module Columbia, the only portion of the Apollo 11 spacecraft to return to Earth, is prominently displayed in the ongoing Space Race exhibition. Visitors can also touch a sample of a lunar rock brought back from the Apollo 17 mission in 1972.\n\nThe Air and Space Museum also features an IMAX Theater, a planetarium and a public observatory with a safe solar telescope so you can be a daytime stargazer. Daily tours are offered and educational events are available for children and adults. The museum science demonstrations and story times are for younger children.</string>
+    <string name="air_space_place5_location">600 Independence Ave SW, Washington, DC 20560</string>
+
+    <string name="national_his_place6_title">National Museum of Natural History</string>
+    <string name="national_his_place6_headline">Explore the natural world around you at this free gem on the National Mall.</string>
+    <string name="national_his_place6_sub_headline1">Planning your visit to the museum</string>
+    <string name="national_his_place6_sub_headline1_info">The Smithsonian National Museum of Natural History opened in 1910 to invoke discovery and education of the natural world. Its green dome and immense size (comparable to 18 football fields) are signatures, as well as the 140 million-plus natural science specimens and cultural artifacts that the museum contains.\n\nThe Museum of Natural History is centrally located in Washington, DC on the National Mall. Like all Smithsonian Institution museums, admission is free. Its regular hours are 10 a.m. – 5:30 p.m., but hours are extended during the spring and summer with a closing time of 7:30 p.m. The museum is open every day of the year except Dec. 25. The most convenient way to reach the museum is via public transportation. Public parking is scarce, but there are parking spaces available for visitors with disabilities. If using Metrorail, take the Orange or Blue line to the Smithsonian station and use the Mall exit. If taking Metrobus, use the 32, 34 or 36 routes.</string>
+    <string name="national_his_place6_sub_headline2">What’s inside the National Museum of Natural History?</string>
+    <string name="national_his_place6_sub_headline2_info">The museum contains some of the most famous artifacts in the world. The Janet Annenberg Hooker Hall of Geology, Gems and Minerals has the supposedly cursed Hope Diamond on display. Meanwhile, Q?rius, the museum’s education center, offers teens and tweens a lab where they can make their own scientific discoveries. The David H. Koch Hall of Human Origins details the story of how the human species evolved through full-size reconstructions; the exhibit features more than 285 fossils and artifacts. Other permanent exhibits include an insect zoo and The Sant Ocean Hall, which features an exact replica of a living North Atlantic right whale.</string>
+    <string name="national_his_place6_location">10th St. &amp; Constitution Ave. NW, Washington, DC 20560</string>
+
+    <string name="washing_mon_place7_title">Washington Monument</string>
+    <string name="washing_mon_place7_headline">Gaze up at this iconic stone obelisk, the defining feature of the District’s skyline and one of the nation’s most recognizable structures.</string>
+    <string name="washing_mon_place7_sub_headline_1">Where and what is the Washington Monument?</string>
+    <string name="washing_mon_place7_sub_headline_1_info">Built to honor George Washington, the commander-in-chief of the Continental Army and the first president of the United States, the Washington Monument was once the tallest building in the world at just over 555 feet. The monument to America’s first president still holds the title of world’s tallest stone structure and obelisk.\n\nMaintained by the National Park Service, the Washington Monument is located on the center of the National Mall between the U.S. Capitol and Lincoln Memorial. The easiest way to get to the monument is by taking the Metro. The two closest Metro stops are Federal Triangle and Smithsonian, both on the Blue, Orange and Silver lines. If traveling by bus, take DC Circulator’s National Mall route or ride Metrobus routes 32, 34 or 36. If driving, visitor parking is available on Ohio Drive, between the Lincoln and Jefferson memorials. Note that street parking is often limited near the National Mall.</string>
+    <string name="washing_mon_place7_sub_headline2">Why does the Washington Monument have two colors?</string>
+    <string name="washing_mon_place7_sub_headline2_info">It wasn\'t easy to build Washington Monument. The structure was originally designed by Robert Mills, with construction beginning in 1848. The combination of the Civil War, the Know Nothing Party\'s rise to control of the Washington National Monument Society through an illegal election and lack of funding led to a halt in construction in 1854. When construction resumed in 1879, marble was used from a different quarry, and time and weather erosion have led to the difference in color, which begins at the 150-foot mark.\n\nThe monument was finally completed in 1884 by Thomas Casey and the U.S. Army Corps of Engineers and an elevator was added to the monument in 1889.</string>
+    <string name="washing_mon_place7_location">2 15th St NW, Washington, DC 20024</string>
+
+
+    <!-- hotels details-->
+    <string name="normandy_hotel1_title">Normandy Hotel</string>
+    <string name="normandy_hotel1_info">The Normandy Hotel is an oasis amidst urban life in busy Washington, DC. It is about finding that peaceful feeling at the end of a long day, where everyone greets you by name, offered a glass of wine, and a feeling of returning home. No long lines, no crowds—quiet, charming and attentive service are the hallmarks at The Normandy. Breakfast is offered to guests daily in the lobby and library area. The Normandy’s superb level of personalized service provides a sense of belonging in the cosmopolitan hub of Washington, DC’s international district.</string>
+    <string name="normandy_hotel1_location">2118 Wyoming Ave NW, Washington, DC 20008</string>
+    <string name="normandy_hotel_contact">(202) 483–1350</string>
+    <string name="normandy_hotel1_booking">https://reservations.washington.org/hotel/single/953/14589</string>
+    <string name="normandy_hotel1_site">https://www.thenormandydc.com</string>
+
+    <string name="hyatt_place_hotel2_title">Hyatt Place</string>
+    <string name="hyatt_place_hotel2_info">The brand new 13-story, 214-room hotel is located in the South West area of Washington, DC. Having opened in late 2015, Hyatt Place Washington DC/National Mall is situated in the fastest developing neighborhood in DC with a vibrant mixed-used development that sits just south of the National Mall, only four blocks away.\n\nWe are walking distance from DC\'s finest attractions such as Lincoln &amp; Jefferson Memorials, World War II MIK Jr. Memorial, along with the Holocaust Museum, and minutes from National Parks. You can start your day exploring the Smithsonian\'s National Air and Space Museum or the American Indian Museum which are both three blocks away. Afterward, you can take an afternoon tour of the White House, Washington Monument or the US Capitol Building. End your day enjoying your favorite Gallery meal or beverage on our Rooftop Bar or Gallery Terrace.</string>
+    <string name="hyatt_place_hotel2_location">1522 K St NW, Washington, DC 20005</string>
+    <string name="hyatt_place_hotel2_contact">(202) 830–1900</string>
+    <string name="hyatt_place_hotel2_booking">https://reservations.washington.org/hotel/single/953/52610</string>
+    <string name="hyatt_place_hotel2_site">https://www.hyatt.com/</string>
+
+    <string name="hilton_hotel3_title">Hilton Garden Inn</string>
+    <string name="hilton_hotel3_info">All of the inviting guest rooms at this LEED certified hotel features complimentary Wi-Fi, an ergonomic desk, microwave, mini-fridge and a Keurig coffee. Savor cocktails and American classics in our relaxed onsite bistro, Cafe Deluxe, and buy snacks and sundries from the 24-hour Pavillion Pantry. Keep fit in the complimentary 24-hour fitness center and enjoy swimming in the rooftop pool. Feel confident hosting your meeting or event in our brand new meeting facilities accommodating up to 150 attendees. Let our Industry experts handle the details when planning your next conference or social function.</string>
+    <string name="hilton_hotel3_location">2201 M St NW, Washington, DC 20037</string>
+    <string name="hilton_hotel3_contact">(202) 974–6010</string>
+    <string name="hilton_hotel3_booking">https://reservations.washington.org/hotel/single/953/14565</string>
+    <string name="hilton_hotel3_site">https://hiltonhonors3.hilton.com</string>
+
+    <string name="holiday_inn_hotel4_title">Holiday Inn</string>
+    <string name="holiday_inn_hotel4_info">This Days Inn location is nestled in the heart of prestigious upper Northwest Washington, DC, just minutes from the National Zoo and 1 block from the Metro. Enjoy first-class service and unforgettable experiences, access to incredible historic landmarks, world-famous sightseeing, premier shopping and fine dining. Complete with two electrical vehicle charging stations in the covered garage area. </string>
+    <string name="holiday_inn_hotel4_location">4400 Connecticut Ave NW, Washington, DC 20008</string>
+    <string name="holiday_inn_hotel4_contact">(202) 244–5600 </string>
+    <string name="holiday_inn_hotel4_booking">https://reservations.washington.org/hotel/single/953/1455</string>
+    <string name="holiday_inn_hotel4_site">https://www.dcdaysinn.com/</string>
+
+    <string name="capitol_skyline_hotel5_title">Capitol Skyline Hotel</string>
+    <string name="capitol_skyline_hotel5_info">At the Capitol Skyline Hotel we\'ve taken a fabulously eclectic seven-story downtown DC hotel built by master architect Morris Lapidus (the original designer of Miami Beach\'s famed Fontainebleau resort) and dressed up the lobby with collectible furniture by some of the most interesting modern and contemporary designers:  Frank Gehry, Eero Saarinen, Ronan and Erwan Bouroullec, Greg Lynn, Ross Lovegrove, Denis Santachiara and Philippe Starck, just to name a few.  It feels almost like a mini-museum of design, except you get to touch, feel, hang out around and sit on everything!\n\nThe Capitol Skyline Hotel guest rooms are some of the largest and most spacious of any Washington DC Hotel. The decor is inspired by America\'s mid-century obsession with all things colonial, but with a bright, cheerful twist.  And of course, the hotel has all of the necessities of modern life on the road:  Free Wireless Internet Access , 27-inch TV\'s, free digital safes, large working areas, extremely comfortable mattresses, big closets, and nice clean bathrooms with quarry granite vanities.</string>
+    <string name="capitol_skyline_hotel5_location">10 I St SW, Washington, DC 20024</string>
+    <string name="capitol_skyline_hotel5_contact">(202) 488–7500</string>
+    <string name="capitol_skyline_hotel5_booking">https://reservations.washington.org/hotel/single/953/14549</string>
+    <string name="capitol_skyline_hotel5_site">http://www.capitolskyline.com</string>
+
+    <string name="homewood_hotel6_title">Homewood Suites</string>
+    <string name="homewood_hotel6_info">Located in Washington DC\'s vibrant Navy Yard neighborhood. Our brand new all-suite hotel features 195 studio suites and 1 bedroom suite (King or Queen/Queen) equipped with full kitchens. Your stay includes a complimentary breakfast buffet each morning and lite fare at our evening social, Monday through Thursday. Enjoy access to our indoor pool, 24/7 fitness center, business center and beautiful rooftop terrace offering panoramic views of DC. We are one block from National Parks and directly across the street from the Navy Yard metro station (Green line) which allows easy access to museums, monuments and DC landmarks. Our location also puts you just one mile from Capitol Hill, blocks from the Washington Navy Yard and steps away from an array of restaurants and the Capitol Riverfront. Whether in town for business or pleasure, you will always be made to feel at home when staying at our all-suite hotel.</string>
+    <string name="homewood_hotel6_location">50 M St SE, Washington, DC 20003</string>
+    <string name="homewood_hotel6_contact">(202) 899–2800</string>
+    <string name="homewood_hotel6_booking">https://reservations.washington.org/hotel/single/953/53625</string>
+    <string name="homewood_hotel6_site">https://homewoodsuites3.hilton.com</string>
+
+
+    <!-- Restaurants details-->
+
+    <string name="osteria_morini_restaurant1_title">Osteria Morini</string>
+    <string name="osteria_morini_restaurant1_info">Morini\'s menus offers a wide array of smaller plates and larger composed platters by Executive Chef, Matt Adler. White\’s signature pasta offerings are served with a variety of traditional ragus and delicately stuffed pastas from Emilia-Romagna. The wine list includes affordable wine selections focusing on the north central regions of Liguria, Umbria, Tuscany, Southern Lombardy, Emilia-Romagna and Le Marche, with sparkling wines like prosecco and lambrusco strongly represented.</string>
+    <string name="osteria_morini_restaurant1_location">301 Water St SE, Washington, DC 20003</string>
+    <string name="osteria_morini_restaurant1_contact">(202) 484–0660</string>
+    <string name="osteria_morini_restaurant1_booking">https://www.opentable.com/r/osteria-morini-dc-washington</string>
+    <string name="osteria_morini_restaurant1_site">https://osteriamorini.com/</string>
+    <string name="osteria_morini_restaurant1_timings">Monday-Friday 11:30AM–10PM\nSunday 11:30AM–9PM</string>
+    <string name="osteria_morini_restaurant1_rating">4.3</string>
+
+    <string name="hard_rock_restaurant2_title">Hard Rock Cafe</string>
+    <string name="hard_rock_restaurant2_info">Located in the heart of our nation\'s capital, Hard Rock Cafe\'s "Embassy of Rock-n-Roll" opened its doors on January 1, 1990 and has been creating raving fans ever since! Conveniently located next to Fords Theater, across from the FBI building, and just a short walk from Metro Center, The White House, Capitol Hill, and the Smithsonian Museums, Hard Rock Cafe is both a perfect stop on your sight seeing adventure and a unique late night hangout for DC locals.</string>
+    <string name="hard_rock_restaurant2_location">999 E St NW, Washington, DC 20004</string>
+    <string name="hard_rock_restaurant2_contact">(202) 737–7625</string>
+    <string name="hard_rock_restaurant2_booking">https://www.opentable.com/hard-rock-cafe-washington-dc</string>
+    <string name="hard_rock_restaurant2_site">https://www.hardrock.com</string>
+    <string name="hard_rock_restaurant2_timings">Monday-Thursday 9AM–11PM\nFriday-Saturday 9AM–12PM\nSun 9AM–11PM</string>
+    <string name="hard_rock_restaurant2_rating">3.8</string>
+
+    <string name="cuba_libre_restaurant3_title">Cuba Libre Restaurant &amp; Rum Bar</string>
+    <string name="cuba_libre_restaurant3_info">Cuba Libre Restaurant and Rum Bar features Nuevo Cubano cuisine by two-time James Beard award-winning Chef Guillermo Pernot. Pernot\'s menu features tantalizing tastes are derived from the exotic island\'s culinary traditions, which include Spanish, African, Creole, and Asian influences. The restaurant\'s atmosphere transports guests to old Havana, circa the 1950s. One of a kind mill work and architectural salvage including unique doors, gates, cabinetry, furniture, and accessories help capture the essence of Old Cuban architecture. Colorful exotic foliage and large potted palm trees add to Cuba Libre\'s open air, tropical ambiance. Featuring a selection of over 70 rums, Cuba Libre\'s uniquely refreshing house specialty, the mojito, is made from the authentic Cuban recipe of combing rum, fresh lime juice, fresh mint leaves, a splash of soda, and most distinctively, guarapo (sugar cane juice pressed daily on site).</string>
+    <string name="cuba_libre_restaurant3_location">801 9th St NW suite a, Washington, DC 20001</string>
+    <string name="cuba_libre_restaurant3_contact">(202) 529–3300</string>
+    <string name="cuba_libre_restaurant3_booking">https://www.opentable.com/r/cuba-libre-dc-washington</string>
+    <string name="cuba_libre_restaurant3_site">http://cubalibrerestaurant.com</string>
+    <string name="cuba_libre_restaurant3_timing">Monday-Wednesday 11:30AM–10PM\nThursday 11:30AM–11PM\nFriday-Saturday 11:30AM–3AM\nSunday 11:30AM–9PM</string>
+    <string name="cuba_libre_restaurant3_rating">4.2</string>
+
+
+    <string name="farmers_distillers_restaurant4_title">Farmers &amp; Distillers</string>
+    <string name="farmers_distillers_restaurant4_info">The team behind Founding Farmers introduces Farmers &amp; Distillers, Mount Vernon Square’s newest and most exciting dining destination! Located on 6th &amp; Mass, Farmers &amp; Distillers will be open for full service and grab-and-go breakfast, lunch, dinner and brunch. From Rockefeller baked oysters, to flavorful hand-pulled noodles, there is something for everyone.</string>
+    <string name="farmers_distillers_restaurant4_location">600 Massachusetts Ave NW, Washington, DC 20001</string>
+    <string name="farmers_distillers_restaurant4_contact">(202) 464–3001</string>
+    <string name="farmers_distillers_restaurant4_booking">https://www.opentable.com/r/farmers-and-distillers-washington</string>
+    <string name="farmers_distillers_restaurant4_site">https://farmersanddistillers.com</string>
+    <string name="farmers_distillers_restaurant4_timing">Monday-Wednesday 7AM–10PM\nThursday 7AM–11PM\nFriday 7AM–12AM\nSaturday 9AM–12AM\nSunday 9AM–10PM</string>
+    <string name="farmers_distillers_restaurant4_rating">4.5</string>
+
+    <string name="asia_nine_restaurant5_title">Asia Nine</string>
+    <string name="asia_nine_restaurant5_info">Located just around the block from Fords Theatre, Asia Nine is busy serving lunch and dinner. This Nuevo Asian cuisine combines elements of traditional Japanese, Thai, Chinese and Vietnamese cooking. Enjoy our signature entrees or sit back and indulge yourself in our full service raw bar and extensive sake menu.\nPerfect for groups large and small, enjoy a multi-cultural dining experience with a warm and exotic atmosphere. With options like take out, delivery, buy outs and valet parking, dining at Asia Nine will always be a convenient indulgence.</string>
+    <string name="asia_nine_restaurant5_location">915 E St NW, Washington, DC 20004</string>
+    <string name="asia_nine_restaurant5_contact">(202) 629–4355</string>
+    <string name="asia_nine_restaurant5_booking">https://www.opentable.com/r/asia-nine-bar-and-lounge-washington</string>
+    <string name="asia_nine_restaurant5_site">http://asianine.com</string>
+    <string name="asia_nine_restaurant5_timing">Monday-Thursday 11AM–10PM\nFriday 11AM–11PM\nSaturday 12–11PM\nSunday 4PM–9:30PM</string>
+    <string name="asia_nine_restaurant5_rating">4.1</string>
+
+    <string name="city_tap_restaurant6_title">City Tap House Pen Quarter</string>
+    <string name="city_tap_restaurant6_info">Offering craft brews from around the country–and the world–authentic, brick oven-cooked pizza and gourmet, American fare, City Tap House has updated the gastropub experience, focusing on a rustic yet comfortable bar and dining setting that also gives guests a first-hand seating view of our spacious open kitchen.\nCity Tap House proudly offers a one-of-a-kind private event space; perfect your next private happy hour or holiday event. Our main bar area is the ideal setting for a casual happy hour or seated lunch or dinner.</string>
+    <string name="city_tap_restaurant6_location">901 9th St NW, Washington, DC 20001</string>
+    <string name="city_tap_restaurant6_contact">(202) 733–5333</string>
+    <string name="city_tap_restaurant6_booking">https://www.opentable.com/city-tap-house-dc</string>
+    <string name="city_tap_restaurant6_site">https://www.citytap.com/</string>
+    <string name="city_tap_restaurant6_timing">Monday-Wednesday 11:30AM–12AM\nThursday 11:30AM–1:30AM\nFriday 11:30AM–2:30AM\nSaturday 11AM–2:30AM\nSunday 11AM–12AM</string>
+    <string name="city_tap_restaurant6_rating">4.0</string>
+    
+
+    <string name="overview">overview</string>
+    <string name="address">Address</string>
+    <string name="order_now">order now</string>
+    <string name="book_now">book now</string>
+    <string name="website">Website</string>
+    <string name="view_site">view site</string>
+    <string name="make_call">Make Call</string>
+    <string name="view_map">View Map</string>
+</resources>
