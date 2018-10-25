@@ -1,11 +1,13 @@
 package com.example.sanketh.dcguide.Utils;
 
 import android.content.Context;
+import android.view.LayoutInflater;
 
 import com.example.sanketh.dcguide.R;
 import com.example.sanketh.dcguide.models.Hotels;
 import com.example.sanketh.dcguide.models.Places;
 import com.example.sanketh.dcguide.models.Restaurants;
+import com.example.sanketh.dcguide.models.Shopping;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -126,5 +128,33 @@ public class Utils {
                 R.drawable.city_tap_restaurant));
 
         return restaurants;
+    }
+
+    public List<Shopping> getShoppingData(Context context){
+
+        List<Shopping> shops = new ArrayList<>();
+
+        shops.add(new Shopping(context.getString(R.string.city_center_dc_shop1_title), context.getString(R.string.city_center_dc_shop1_info),
+                context.getString(R.string.city_center_dc_shop1_timing), context.getString(R.string.city_center_dc_shop1_location),
+                context.getString(R.string.city_center_dc_shop1_site),R.drawable.city_center_dc_shop));
+
+        shops.add(new Shopping(context.getString(R.string.paul_stuart_shop2_title), context.getString(R.string.paul_stuart_shop2_info),
+                context.getString(R.string.paul_stuart_shop2_timing), context.getString(R.string.paul_stuart_shop2_location),
+                context.getString(R.string.paul_stuart_shop2_site), R.drawable.paul_stuart_shop));
+
+        shops.add(new Shopping(context.getString(R.string.union_market_shop3_title), context.getString(R.string.union_market_shop3_info),
+                context.getString(R.string.union_market_shop3_timing), context.getString(R.string.union_market_shop3_location),
+                context.getString(R.string.union_market_shop3_site), R.drawable.union_market_shop));
+
+        shops.add(new Shopping(context.getString(R.string.holiday_downtown_shop4_title), context.getString(R.string.holiday_downtown_shop4_info),
+                context.getString(R.string.holiday_downtown_shop4_timing), context.getString(R.string.holiday_downtown_shop4_location),
+                context.getString(R.string.holiday_downtown_shop4_site), R.drawable.downtown_holiday_market_shop));
+
+        shops.add(new Shopping(context.getString(R.string.market_sw_shop5_title), context.getString(R.string.market_sw_shop5_info),
+                context.getString(R.string.market_sw_shop5_timing), context.getString(R.string.market_sw_shop5_location),
+                context.getString(R.string.market_sw_shop5_site), R.drawable.market_sw_shop));
+
+
+        return shops;
     }
 }

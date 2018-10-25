@@ -21,18 +21,18 @@ public class RestaurantDetails extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_restaurant_details);
+        setContentView(R.layout.activity_category_details);
 
         if (getActionBar() != null)
             getActionBar().setDisplayHomeAsUpEnabled(true);
 
-        ImageView restaurantImage = findViewById(R.id.restaurant_cover);
-        TextView restaurantInfoText = findViewById(R.id.restaurant_info_text_view);
-        MaterialButton restaurantContactButton = findViewById(R.id.restaurant_contact_button);
-        MaterialButton restaurantLocationButton = findViewById(R.id.restaurant_location_button);
-        TextView restaurantTimingsText = findViewById(R.id.restaurant_timing_text_view);
-        MaterialButton restaurantBookingButton = findViewById(R.id.restaurant_booking_button);
-        MaterialButton restaurantSiteButton = findViewById(R.id.restaurant_site_button);
+        ImageView restaurantImage = findViewById(R.id.details_cover_image);
+        TextView restaurantInfoText = findViewById(R.id.details_info_text_view);
+        MaterialButton restaurantContactButton = findViewById(R.id.details_contact_button);
+        MaterialButton restaurantLocationButton = findViewById(R.id.details_location_button);
+        TextView restaurantTimingsText = findViewById(R.id.details_timing_text_view);
+        MaterialButton restaurantBookingButton = findViewById(R.id.details_booking_button);
+        MaterialButton restaurantSiteButton = findViewById(R.id.details_site_button);
 
         Bundle bundle = getIntent().getExtras();
         Restaurants restaurants = null;

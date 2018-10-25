@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.support.design.button.MaterialButton;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.GridLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 import com.example.sanketh.dcguide.R;
@@ -21,17 +22,23 @@ public class HotelDetailsActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_hotel_details);
+        setContentView(R.layout.activity_category_details);
+        TextView timing = findViewById(R.id.details_timing_text_view);
+        timing.setVisibility(View.GONE);
+
 
         if (getActionBar() != null)
             getActionBar().setDisplayHomeAsUpEnabled(true);
 
-        ImageView hotelImage = findViewById(R.id.hotel_cover);
-        TextView hotelInfoText = findViewById(R.id.hotel_info_text_view);
-        MaterialButton hotelContactButton = findViewById(R.id.hotel_contact_button);
-        MaterialButton hotelLocationButton = findViewById(R.id.hotel_location_button);
-        MaterialButton hotelBookingButton = findViewById(R.id.hotel_booking_button);
-        MaterialButton hotelSiteButton = findViewById(R.id.hotel_site_button);
+        ImageView hotelImage = findViewById(R.id.details_cover_image);
+        TextView hotelInfoText = findViewById(R.id.details_info_text_view);
+        MaterialButton hotelContactButton = findViewById(R.id.details_contact_button);
+        MaterialButton hotelLocationButton = findViewById(R.id.details_location_button);
+        MaterialButton hotelBookingButton = findViewById(R.id.details_booking_button);
+        MaterialButton hotelSiteButton = findViewById(R.id.details_site_button);
+
+        hotelBookingButton.setIconResource(R.drawable.baseline_hotel_white_24dp);
+        hotelBookingButton.setText(R.string.book_now);
 
         Bundle bundle = getIntent().getExtras();
         Hotels hotels = null;

@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">DC Guide</string>
     <string name="Places">Place</string>
-    <string name="Hotels">Hotels</string>
-    <string name="Restaurants">Food &amp; Drink</string>
-    <string name="Events">Events</string>
+    <string name="Hotels">Hotel</string>
+    <string name="Restaurants">Eat</string>
+    <string name="shops">Shopping</string>
 
     <!--places details-->
     <string name="lincoln_memorial_place1_title">Lincoln Memorial</string>
@@ -163,7 +163,37 @@
     <string name="city_tap_restaurant6_site">https://www.citytap.com/</string>
     <string name="city_tap_restaurant6_timing">Monday-Wednesday 11:30AM–12AM\nThursday 11:30AM–1:30AM\nFriday 11:30AM–2:30AM\nSaturday 11AM–2:30AM\nSunday 11AM–12AM</string>
     <string name="city_tap_restaurant6_rating">4.0</string>
-    
+
+    <!-- Shops details-->
+    <string name="city_center_dc_shop1_title">CityCenterDC</string>
+    <string name="city_center_dc_shop1_info">CityCenterDC is downtown\'s signature neighborhood where an unmatched mix of shops, restaurants, apartments, condominiums, office buildings and common area blend for a vibrant urban experience. CityCenterDC\'s unparalleled, world class boutiques - including Hermes, Dior, Gucci, Louis Vuitton, Salvatore Ferragamo, Vince, Allen Edmonds, Arc\'Teryx, Kate Spade New York, David Yurman, and Caudalie - are a perfect place to shop the season\'s designer collections. CityCenterDC also offers a variety of culinary options guaranteed to satisfy even the most discerning palate. Whether it\'s a quick bite, cocktails, a celebratory dinner, or a decadent dessert, join us at Momofuku, Mil Bar, Fig &amp; Olive, DBGB Kitchen &amp; Bar, Raresweets, Dolcezza, Fruitive, Centrolina or any one of our many eateries to enjoy the best D.C. has to offer.</string>
+    <string name="city_center_dc_shop1_timing">Monday-Sunday 8AM–11PM</string>
+    <string name="city_center_dc_shop1_location">825 10th St NW, Washington, DC 20001</string>
+    <string name="city_center_dc_shop1_site">http://citycenterdc.com</string>
+
+    <string name="paul_stuart_shop2_title">Paul Stuart</string>
+    <string name="paul_stuart_shop2_info">Paul Stuart, the venerable Manhattan-based luxury apparel retailer, is delighted to have opened its first store in Washington, DC\nPaul Stuart has long considered Washington, DC a logical location for expansion. It is a city that values style, refinement, and sophistication over the constantly shifting vagaries of fashion. We believe that our unique and definitive approach to British-American menswear—and the fact that we value quality and substance in every aspect of our business—will be particularly well received in the District.</string>
+    <string name="paul_stuart_shop2_timing">Monday-Saturday 10AM–7PM\nSunday 11AM–5PM</string>
+    <string name="paul_stuart_shop2_location">906 I St NW, Washington, DC 20001</string>
+    <string name="paul_stuart_shop2_site">https://www.paulstuart.com</string>
+
+    <string name="union_market_shop3_title">Union Market</string>
+    <string name="union_market_shop3_info">EDENS sees a bright future for the Union Market district defined by people, passion and possibility. An urban village born from the diversity of the dreams and energy of the nation’s capital. An authentic market of culture and commerce. A true gathering place that serves as an inviting melting pot of old world heritage and new world opportunities. From its roots as Centre Market, a fresh food venue born over 200 years ago, it’s been a great unifier for DC – connecting people from a variety of backgrounds. It will prove to be that creative spark again. An authentic district that expands beyond its culinary origins to include music, retail, hotel and residential uses. An organic source for economic growth, Union Market is a vision that has to be realized. It will be DC’s discovery destination. A pioneering place where vision not only matters but materializes into a thriving, relevant and culturally rich district of sights, sounds and tastes.</string>
+    <string name="union_market_shop3_timing">Monday Closed\nTuesday-Wednesday 8AM–8PM\nThursday-Saturday 8AM–10PM\nSunday 8AM–8PM</string>
+    <string name="union_market_shop3_location">1309 5th St NE, Washington, DC 20002</string>
+    <string name="union_market_shop3_site">https://unionmarketdc.com</string>
+
+    <string name="holiday_downtown_shop4_title">Downtown Holiday Market</string>
+    <string name="holiday_downtown_shop4_info"><![CDATA[The Downtown Holiday Market boasts one of the most spectacular outdoor shopping environments in the region, bringing a unique and festive shopping “village” to the heart of Downtown DC. From Nov 23 (Black Friday) through Dec 23, 12–8pm, you can enjoy warm, tasty treats, live performances and a curated selection of gifts to purchase, ranging from jewelry, bath & beauty products and clothing and accessories, to art and artisan chocolates. The market features more than 150 regional artisans, crafters and boutique businesses of ethnically produced goods.]]></string>
+    <string name="holiday_downtown_shop4_timing">Monday-Sunday 12–8PM</string>
+    <string name="holiday_downtown_shop4_location"> F St NW &amp; 8th St NW, Washington, DC 20004</string>
+    <string name="holiday_downtown_shop4_site">http://downtownholidaymarket.com</string>
+
+    <string name="market_sw_shop5_title">MarketSW</string>
+    <string name="market_sw_shop5_info">Back again for 2018, MarketSW is a growing market series in its fourth year! Throughout the summer months, MarketSW combines a Friday evening night market and Saturday morning Farmers Market in the heart of Southwest DC.\nEvery other Friday from May to October, MarketSW is considered the "neighborhood living room" of the community. From 4pm -10pm, the market features local art, handmade crafts, food trucks, live music and more!\nEvery Saturday, Farmers MarketSW welcomes the early-birds to fresh fruits and produce, baked goods, ethically-raised meats, cut flowers, and so much more to fill your bellies and pantry. Farmers MarketSW is open from 9am - 1pm and runs until November 21st, 2018.</string>
+    <string name="market_sw_shop5_timing">Monday-Thursday closed\nFriday 4–10PM\nSaturday 9AM–1PM</string>
+    <string name="market_sw_shop5_location">425 M St SW, Washington, DC 20024</string>
+    <string name="market_sw_shop5_site">http://marketswdc.com/</string>
 
     <string name="overview">overview</string>
     <string name="address">Address</string>
@@ -173,4 +203,5 @@
     <string name="view_site">view site</string>
     <string name="make_call">Make Call</string>
     <string name="view_map">View Map</string>
+
 </resources>

@@ -38,6 +38,9 @@
         <activity
             android:name=".Activities.RestaurantDetails"
             android:parentActivityName=".Activities.RestaurantActivity" />
+        <activity android:name=".Activities.ShoppingActivity" />
+        <activity android:name=".Activities.ShoppingDetailsActivity"
+            android:parentActivityName=".Activities.ShoppingActivity"/>
     </application>
 
 </manifest>

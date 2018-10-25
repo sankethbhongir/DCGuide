@@ -9,6 +9,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 import com.example.sanketh.dcguide.Fragments.HotelsFragment;
 import com.example.sanketh.dcguide.Fragments.PlacesFragment;
 import com.example.sanketh.dcguide.Fragments.RestaurantFragment;
+import com.example.sanketh.dcguide.Fragments.ShoppingFragment;
 import com.example.sanketh.dcguide.R;
 
 
@@ -53,6 +54,9 @@ public class CategoryPageAdapter extends FragmentPagerAdapter {
                 break;
             case 2:
                 fragment = new RestaurantFragment();
+                break;
+            case 3:
+                fragment = new ShoppingFragment();
         }
         return fragment;
     }
@@ -62,7 +66,7 @@ public class CategoryPageAdapter extends FragmentPagerAdapter {
      */
     @Override
     public int getCount() {
-        return 3;
+        return 4;
     }
 
 
@@ -73,12 +77,16 @@ public class CategoryPageAdapter extends FragmentPagerAdapter {
     @Override
     public CharSequence getPageTitle(int position) {
 
-        if (position == 0) {
+        if (position == 0)
             return mContext.getString(R.string.Places);
-        } else if (position == 1) {
+
+        else if (position == 1)
             return mContext.getString(R.string.Hotels);
-        } else {
+
+        else if (position == 2)
             return mContext.getString(R.string.Restaurants);
+         else {
+            return mContext.getString(R.string.shops);
         }
     }
 }
